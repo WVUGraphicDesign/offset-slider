@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../sass/styles.scss"
+	],
+	"sourcesContent": [
+		".flex-direction-nav a:before {\n    font-size: 32px;\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,mBAAmB,CAAC,CAAC,AAAA,OAAO,CAAC;EACzB,SAAS,EAAE,IAAI;CAClB"
+}
